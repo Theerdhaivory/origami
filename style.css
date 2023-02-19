@@ -1,0 +1,27 @@
+
+body 
+{
+    text-align: center;
+}
+h1{
+    font-family: 'Pinyon Script', cursive;
+    font-size: 40px;
+    
+}
+#home{
+    background-image: linear-gradient(#E5D1FA,#FFF4D2);
+    color: #daaaff;
+    
+}
+p{
+    font-family: 'sacramento', cursive;
+    font-size: 35px;
+    
+}
+img {
+    height: 500px;
+}
+#origami{
+    background-image: linear-gradient(#AAE3E2,#D9ACF5);
+
+}
